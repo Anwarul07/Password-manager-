@@ -19,6 +19,10 @@
   display: flex;
   justify-content: center;
 }
+.align{
+  display: flex;
+ align-items: center;
+}
 .m10 {
   margin: 10px;
 }
