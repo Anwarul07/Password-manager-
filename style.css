@@ -73,9 +73,9 @@ h1, h2, h3 {
 img{
   cursor: pointer;
   position: relative;
-  bottom: 7px;
+  bottom: 50x;
   width: 15px;
-  height: 13px;
+  height: 10px;
 }
 
 #alert{
