@@ -81,3 +81,9 @@ img{
 #alert{
   display: none;
 }
+
+footer{
+  background-color: rgb(15, 16, 16);
+  color: white;
+  padding: 20px;
+}
